@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BonoBono&fontSize=90&fontAlign=50)
 
-***
-
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,7 +33,6 @@
   <br>
 </div>
 
-***
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=pulung2&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulung2&layout=compact&theme=dracula)](https://github.com/metleeha)
