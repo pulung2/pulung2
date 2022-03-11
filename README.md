@@ -47,6 +47,8 @@ src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logo
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&reversal=true&color=gradient)
+
 <!--
 **pulung2/pulung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
